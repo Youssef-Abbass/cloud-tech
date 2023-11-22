@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cloud-tech/static/css/main.7698ba5b.css",
+    "main.js": "/cloud-tech/static/js/main.dbff09c4.js",
+    "static/js/787.cfe8808f.chunk.js": "/cloud-tech/static/js/787.cfe8808f.chunk.js",
+    "static/media/header.jpg": "/cloud-tech/static/media/header.a3b872a7610b6c2bc02d.jpg",
+    "static/media/view.jpg": "/cloud-tech/static/media/view.3c4a83009ebcd86e38e1.jpg",
+    "static/media/logo.svg": "/cloud-tech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cloud-tech/index.html",
+    "main.7698ba5b.css.map": "/cloud-tech/static/css/main.7698ba5b.css.map",
+    "main.dbff09c4.js.map": "/cloud-tech/static/js/main.dbff09c4.js.map",
+    "787.cfe8808f.chunk.js.map": "/cloud-tech/static/js/787.cfe8808f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7698ba5b.css",
+    "static/js/main.dbff09c4.js"
+  ]
+}
